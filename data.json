@@ -2,11 +2,11 @@
   "flavors": {
     "github": {
       "stable": {
-        "isUpdate": false,
+        "isUpdate": true,
         "store": "https://play.google.com/store/apps/details?id=free.tube.premium.advanced.tuber.pro",
         "apk": "https://play.google.com/store/apps/details?id=free.tube.premium.advanced.tuber.pro",
-        "version": "1.3",
-        "version_code": 1002
+        "version": "1.4",
+        "version_code": 1003
       }
     }
   }
