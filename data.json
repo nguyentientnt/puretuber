@@ -6,6 +6,7 @@
         "store": "https://play.google.com/store/apps/details?id=free.tube.premium.advanced.tuber.pro",
         "apk": "https://play.google.com/store/apps/details?id=free.tube.premium.advanced.tuber.pro",
         "isShowAds": true,
+        "isShowAdsAdmobOpen": true,
         "version": "1.13",
         "version_code": 1013,
         "version_code_4_4": 1013
