@@ -6,7 +6,8 @@
         "store": "https://play.google.com/store/apps/details?id=free.tube.premium.advanced.tuber.pro",
         "apk": "https://play.google.com/store/apps/details?id=free.tube.premium.advanced.tuber.pro",
         "isShowAds": true,
-        "isShowAdsAdmobOpen": true,
+        "isShowAdsAdmobOpen": true,  
+        "timeShowAds": 3,
         "version": "1.8",
         "version_code": 1008,
         "version_code_4_4": 1008
