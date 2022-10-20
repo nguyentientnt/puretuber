@@ -8,6 +8,7 @@
         "isShowAds": true,
         "isShowAdsAdmobOpen": true,
         "timeShowAds": 3,
+        "isShowAdsAdmobBN": true,
         "version": "1.13",
         "version_code": 1013,
         "version_code_4_4": 1013
