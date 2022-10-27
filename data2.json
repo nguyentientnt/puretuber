@@ -8,7 +8,7 @@
         "isShowAds": true,
         "isShowAdsAdmobOpen": true,  
         "timeShowAds": 3,
-        "isShowAdsAdmobBN": true,
+        "isShowAdsAdmobBN": false,
         "version": "1.19",
         "version_code": 1019,
         "version_code_4_4": 1019
