@@ -5,10 +5,10 @@
         "isUpdate": false,
         "store": "https://play.google.com/store/apps/details?id=free.tube.premium.advanced.tuber.apppro",
         "apk": "https://play.google.com/store/apps/details?id=free.tube.premium.advanced.tuber.apppro",
-        "isShowAds": false,
-        "isShowAdsAdmobOpen": false,  
+        "isShowAds": true,
+        "isShowAdsAdmobOpen": true,  
         "timeShowAds": 3,
-        "isShowAdsAdmobBN": false,
+        "isShowAdsAdmobBN": true,
         "version": "1.11",
         "version_code": 1011,
         "version_code_4_4": 1011
