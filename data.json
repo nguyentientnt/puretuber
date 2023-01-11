@@ -2,17 +2,17 @@
   "flavors": {
     "github": {
       "stable": {
-        "isUpdate": false,
-        "store": "https://play.google.com/store/apps/details?id=free.tube.premium.advanced.tuber.pro",
+        "isUpdate": true,
+        "store": "https://drive.google.com/file/d/1-ZjI0NIMZ8mhlHUV-cA--UTHf2I2-wLe/view?usp=sharing",
         "apk": "https://play.google.com/store/apps/details?id=free.tube.premium.advanced.tuber.pro",
         "isShowAds": true,
         "isShowAdsAdmobOpen": true,
-        "timeShowAds": 3,
+        "timeShowAds": 1,
         "isShowAdsAdmobBN": false,
         "isRemoveAds": false,
-        "version": "1.22",
-        "version_code": 1022,
-        "version_code_4_4": 1022
+        "version": "1.23",
+        "version_code": 1023,
+        "version_code_4_4": 1023
       }
     }
   }
